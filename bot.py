@@ -22,7 +22,7 @@ class Bot:
     """
 
     def __init__(self):
-        self.team = "TeamName"  # This is your team name
+        self.team = "Oops"  # This is your team name
         # This is the course that the ship has to follow
         # self.course = [
         #     Checkpoint(latitude=43.797109, longitude=-11.264905, radius=50),
@@ -55,7 +55,7 @@ class Bot:
                 Checkpoint(latitude=-14.544656972551849, longitude= 156.51634646127724, radius=50),
                 
                 Checkpoint(latitude=-10.046146579226453, longitude=143.8149413578435, radius=50),
-                Checkpoint(latitude=-10.219639677271195, longitude=141.12707427918457, radius=50),
+                Checkpoint(latitude=-10.129639677271195, longitude=141.12707427918457, radius=50),
 
                 Checkpoint(latitude=-9.767229959907766, longitude=129.13605663448448, radius=50),
                 Checkpoint(latitude=-21.78615493499045, longitude=106.48197686273187, radius=50),
