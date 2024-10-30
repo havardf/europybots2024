@@ -43,8 +43,8 @@ class Bot:
         # ]
         self.course = [
                 Checkpoint(latitude=27.9774487576345, longitude=-65.06541454115296, radius=50),
-                Checkpoint(latitude=14.77065458187063, longitude=-68.82624251716636, radius=50),
-                Checkpoint(latitude=10.157187507847667, longitude=-80.09127381434787, radius=50),
+                Checkpoint(latitude=16.873075857719087, longitude=-68.60776449857379, radius=50),
+                Checkpoint(latitude=9.860317266029469, longitude=-80.59116055518038, radius=50),
                 Checkpoint(latitude=6.682150603618609, longitude=-78.71306517737868,radius=50), # Panama canal finished
                 Checkpoint(latitude=5.480840563786344, longitude=-79.23386963026627,radius=50),
                 Checkpoint(latitude=4.483046736485534, longitude=-85.89829886898251,radius=50),
